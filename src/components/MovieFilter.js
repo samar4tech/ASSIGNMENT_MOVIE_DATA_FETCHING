@@ -2,7 +2,6 @@ import React from "react";
 import classes from "./MovieFilter.module.css";
 
 const MovieFilter = (props) => {
-  console.log(props);
   const dropdownChangeHandler = (event) => {
     const chosenYear = event.target.value;
 

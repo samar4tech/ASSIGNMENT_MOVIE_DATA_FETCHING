@@ -26,7 +26,7 @@ function SingleMovieDetail() {
       }
 
       const data = await response.json();
-      console.log(data);
+
       setDescriptionObj((prevState) => ({
         ...prevState,
         title: data.data.title,
@@ -36,9 +36,8 @@ function SingleMovieDetail() {
     };
 
     fetchSingleMovieData()
-      .then((res) => console.log(res))
+      .then(() => {})
       .catch((error) => {
-        console.log(error);
         setError(error.message);
         setIsLoading(false);
       });
