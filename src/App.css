@@ -1,0 +1,46 @@
+section {
+  margin: 1rem auto;
+  width: 90%;
+  max-width: 40rem;
+  text-align: center;
+  background-color: white;
+  background-color: #dad7cd;
+
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  /* background: #344e41; */
+  background: linear-gradient(
+    45deg,
+    rgba(49, 5, 27, 0.973),
+    rgba(82, 16, 49, 0.973),
+    rgba(117, 64, 91, 0.973),
+    rgba(128, 96, 112, 0.973),
+    #dad7cd
+  );
+  border: 1px solid rgba(49, 5, 27, 0.973);
+  color: white;
+  padding: 0.75rem 2rem;
+  border-radius: 20px;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover,
+button:active {
+  background: linear-gradient(
+    -45deg,
+    rgba(49, 5, 27, 0.973),
+    rgba(82, 16, 49, 0.973),
+    rgba(117, 64, 91, 0.973),
+    rgba(128, 96, 112, 0.973),
+    #dad7cd
+  );
+  border-color: rgba(49, 5, 27, 0.973);
+}

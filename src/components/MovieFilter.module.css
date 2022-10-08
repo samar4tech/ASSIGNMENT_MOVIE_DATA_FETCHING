@@ -1,0 +1,45 @@
+.movie_filter {
+  color: white;
+  padding: 0 1rem;
+}
+
+.movie_filter__control {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 0;
+}
+
+.label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: rgba(49, 5, 27, 0.973);
+}
+
+.select {
+  font: inherit;
+  padding: 0.5rem 3rem;
+  font-weight: bold;
+  border-radius: 6px;
+  color: rgba(49, 5, 27, 0.973);
+}
+@media screen and (max-width: 482px) {
+  .label {
+    font-size: 0.8rem;
+  }
+  .select {
+    font-size: 0.8rem;
+    padding: 0.3rem 2rem;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .label {
+    font-size: 0.7rem;
+  }
+  .select {
+    font-size: 0.7rem;
+    padding: 0.2rem 1.4rem;
+  }
+}

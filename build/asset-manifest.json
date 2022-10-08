@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/css/main.38d4a542.chunk.css",
+    "main.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.21800f1d.chunk.js",
+    "main.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.21800f1d.chunk.js.map",
+    "runtime-main.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/runtime-main.67abff93.js",
+    "runtime-main.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/runtime-main.67abff93.js.map",
+    "static/js/2.3bb9af6a.chunk.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.3bb9af6a.chunk.js",
+    "static/js/2.3bb9af6a.chunk.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.3bb9af6a.chunk.js.map",
+    "index.html": "/ASSIGNMENT_MOVIE_DATA_FETCHING/index.html",
+    "precache-manifest.e5ce785753f6b4046551c99df4711b64.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/precache-manifest.e5ce785753f6b4046551c99df4711b64.js",
+    "service-worker.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/service-worker.js",
+    "static/css/main.38d4a542.chunk.css.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/css/main.38d4a542.chunk.css.map",
+    "static/js/2.3bb9af6a.chunk.js.LICENSE.txt": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.3bb9af6a.chunk.js.LICENSE.txt",
+    "static/js/main.21800f1d.chunk.js.LICENSE.txt": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.21800f1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67abff93.js",
+    "static/js/2.3bb9af6a.chunk.js",
+    "static/css/main.38d4a542.chunk.css",
+    "static/js/main.21800f1d.chunk.js"
+  ]
+}
