@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/css/main.38d4a542.chunk.css",
-    "main.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.21800f1d.chunk.js",
-    "main.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.21800f1d.chunk.js.map",
-    "runtime-main.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/runtime-main.67abff93.js",
-    "runtime-main.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/runtime-main.67abff93.js.map",
-    "static/js/2.3bb9af6a.chunk.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.3bb9af6a.chunk.js",
-    "static/js/2.3bb9af6a.chunk.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.3bb9af6a.chunk.js.map",
+    "main.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.e96eb1e3.chunk.js",
+    "main.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.e96eb1e3.chunk.js.map",
+    "runtime-main.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/runtime-main.f0eefd5f.js",
+    "runtime-main.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/runtime-main.f0eefd5f.js.map",
+    "static/js/2.9a192a34.chunk.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.9a192a34.chunk.js",
+    "static/js/2.9a192a34.chunk.js.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.9a192a34.chunk.js.map",
     "index.html": "/ASSIGNMENT_MOVIE_DATA_FETCHING/index.html",
-    "precache-manifest.e5ce785753f6b4046551c99df4711b64.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/precache-manifest.e5ce785753f6b4046551c99df4711b64.js",
+    "precache-manifest.6e9fc8b356dd279fe262385d8a2f78fb.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/precache-manifest.6e9fc8b356dd279fe262385d8a2f78fb.js",
     "service-worker.js": "/ASSIGNMENT_MOVIE_DATA_FETCHING/service-worker.js",
     "static/css/main.38d4a542.chunk.css.map": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/css/main.38d4a542.chunk.css.map",
-    "static/js/2.3bb9af6a.chunk.js.LICENSE.txt": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.3bb9af6a.chunk.js.LICENSE.txt",
-    "static/js/main.21800f1d.chunk.js.LICENSE.txt": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.21800f1d.chunk.js.LICENSE.txt"
+    "static/js/2.9a192a34.chunk.js.LICENSE.txt": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/2.9a192a34.chunk.js.LICENSE.txt",
+    "static/js/main.e96eb1e3.chunk.js.LICENSE.txt": "/ASSIGNMENT_MOVIE_DATA_FETCHING/static/js/main.e96eb1e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67abff93.js",
-    "static/js/2.3bb9af6a.chunk.js",
+    "static/js/runtime-main.f0eefd5f.js",
+    "static/js/2.9a192a34.chunk.js",
     "static/css/main.38d4a542.chunk.css",
-    "static/js/main.21800f1d.chunk.js"
+    "static/js/main.e96eb1e3.chunk.js"
   ]
 }
